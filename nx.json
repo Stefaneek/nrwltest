@@ -1,0 +1,24 @@
+{
+  "npmScope": "nrwltestapp",
+  "implicitDependencies": {
+    "angular.json": "*",
+    "package.json": "*",
+    "tsconfig.json": "*",
+    "tslint.json": "*",
+    "nx.json": "*"
+  },
+  "projects": {
+    "nrwltest-nrwltestapp": {
+      "tags": []
+    },
+    "nrwltest-nrwltestapp-e2e": {
+      "tags": []
+    },
+    "shared-todolib": {
+      "tags": []
+    },
+    "shared-components": {
+      "tags": ["n"]
+    }
+  }
+}
